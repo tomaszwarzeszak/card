@@ -5,4 +5,19 @@ html{
   *, *:before, *:after{
     box-sizing: inherit;
   }
-  
+
+  body{
+      background-color: #2C2141;
+  }
+
+  .main{
+      background-color: #F8F8F8;
+      width: 624px;
+      padding: 32px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .image_person{
+      width: 148px;
+      border-radius: 74px;
+  }
